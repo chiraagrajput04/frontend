@@ -1,0 +1,3 @@
+[submodule "ccs-i18n"]
+	path = ccs-i18n
+	url = https://github.com/chiraagrajput04/ccs-i18n.git
